@@ -1,0 +1,6 @@
+url: https://github.com/yangw3967-ctrl/dsh-smart-model
+name: yangw3967-ctrl/dsh-smart-model
+category: model
+description:
+  en: Classifies the prompt you are drafting and switches the session's model and reasoning effort to one of four tiers (Flash with effort off or low, V4-Pro with effort high or max) about a second after you stop typing, skipping while the session is generating; a chip under the composer shows the current tier and pauses auto-switching when clicked.
+  zh: 在你停止输入约一秒后，根据草稿内容把会话的模型与推理等级切到四档之一（Flash 关/低、V4-Pro 高/最大），会话生成中不切换；输入框下方显示当前档位的 chip，点击可暂停自动切换。
